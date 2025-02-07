@@ -21,7 +21,7 @@ main:
  #  url: /year-archive/
     
   - title: "CV"
-    url: files/Baker-CV-2025.pdf
+    url: /files/Baker-CV-2025.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
