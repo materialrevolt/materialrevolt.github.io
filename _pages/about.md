@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍🏫 I am an PhD candidate in art history at the University of Delaware, where I study Atlantic world art and material culture.
+👩🏻‍🏫 I am a PhD candidate in art history at the University of Delaware, where I study Atlantic world art and material culture.
 
 🔎 My research focuses on the materials and politics of art during the eighteenth century.
 
