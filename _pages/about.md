@@ -16,7 +16,7 @@ redirect_from:
 🏛 I am a 2024-2025 Smithsonian Institution Predoctoral Fellow at the Smithsonian American Art Museum and the National Portrait Gallery. Read more about my work [here](https://americanart.si.edu/research/fellowships/fellows/megan-baker).
 
 ### Research Interests
-* medium specificity and materiality
+* medium specificity and technical art history
 * drawing practice and artistic education
 * politics and aesthetics in the Age of Revolutions
 * art's relationship to violence
